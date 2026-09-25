@@ -1,0 +1,16 @@
+{
+  "name": "Cackling Trapper (Fixed)",
+  "description": "Forces the Trapper to laugh with her signature voice while moving, approaching, and near the local player. Updated for the current behavior tree and voice routing.",
+  "version": "1.1.0",
+  "author": "Seph; compatibility fix",
+  "localization": {
+    "zh-cn": {
+      "name": "魔性笑声捕获手（修复版）",
+      "description": "让捕获手在移动、接近以及靠近本机玩家时持续发出专属笑声；已适配当前行为树和语音路由。"
+    },
+    "zh-tw": {
+      "name": "魔性笑聲捕獲手（修復版）",
+      "description": "讓捕獲手在移動、接近以及靠近本機玩家時持續發出專屬笑聲；已適配當前行為樹和語音路由。"
+    }
+  }
+}
